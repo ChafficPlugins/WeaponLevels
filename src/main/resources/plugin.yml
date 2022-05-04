@@ -1,6 +1,6 @@
 name: '${name}'
 version: '${project.version}'
-main: de.chaffic.weaponleveling.WeaponLeveling
+main: de.chafficplugins.weaponleveling.WeaponLeveling
 api-version: 1.17
 prefix: '${name}'
 softdepend: [ CrucialAPI ]
