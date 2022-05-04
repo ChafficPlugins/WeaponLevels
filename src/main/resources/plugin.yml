@@ -1,0 +1,7 @@
+name: '${name}'
+version: '${project.version}'
+main: de.chaffic.weaponleveling.WeaponLeveling
+api-version: 1.17
+prefix: '${name}'
+softdepend: [ CrucialAPI ]
+authors: [ Chaffic ]
